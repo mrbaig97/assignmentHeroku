@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node app.js"
+  },{
   "name": "new-folder",
   "version": "1.0.0",
   "description": "",
